@@ -22,7 +22,7 @@
 
 Перейдите в раздел [**Releases**](../../releases) для скачивания последней версии.
 
-**Последняя версия:** [XYZ Data Viewer 0.1.81-beta](../../releases/tag/v0.1.81-beta)
+**Последняя версия:** [XYZ Data Viewer 0.1.82-beta](../../releases/tag/v0.1.82-beta)
 
 ---
 
