@@ -1,4 +1,4 @@
-# XYZ Data Viewer
+# XYZ Data Viewer 0.1.83-beta
 
 ![Version](https://img.shields.io/badge/version-0.1.83--beta-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
