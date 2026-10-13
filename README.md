@@ -438,8 +438,9 @@
 
 ## 📞 Контакты
 
-- **Автор:** Otrokov Alexander
+- **Автор:** Отроков Александр
 - **GitHub:** https://github.com/alexsevas
+- **TG:** https://t.me/alexsevas
 - **Email:** a1exsevas@yandex.ru
 
 ---
